@@ -1,4 +1,12 @@
-### Hi there 👋
+## This is Eggy Andika Wardani
+[![Gmail Badge](https://img.shields.io/badge/-eggyandikawardani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eggyandikawardani@gmail.com)](mailto:eggyandikawardani@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-eggywardani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eggywardani/)](https://www.linkedin.com/in/eggywardani/) [![Github Badge](https://img.shields.io/badge/-eggywardani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/eggywardani/)](https://www.github.com/eggywardani/) <p align='left'>Someone who still learning Technologies</p>
+
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=eggywardani&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/eggywardani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggywardani&layout=compact&theme=algolia)](https://github.com/eggywardani/github-readme-stats)
+
+
 
 <!--
 **eggywardani/eggywardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
