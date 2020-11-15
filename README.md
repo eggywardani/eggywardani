@@ -1,4 +1,4 @@
-## This is Eggy Andika Wardani
+## Hi 👋 This is Eggy Andika Wardani
 [![Gmail Badge](https://img.shields.io/badge/-eggyandikawardani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eggyandikawardani@gmail.com)](mailto:eggyandikawardani@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-eggywardani-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eggywardani/)](https://www.linkedin.com/in/eggywardani/) [![Github Badge](https://img.shields.io/badge/-eggywardani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/eggywardani/)](https://www.github.com/eggywardani/) <p align='left'>Someone who still learning Technologies</p>
 
